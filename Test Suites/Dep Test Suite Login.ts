@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Dep Test Suite Login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9a9106ec-a951-4cff-9ab1-fd0ab332d0dd</testSuiteGuid>
+   <testCaseLink>
+      <guid>7c9b382c-dce1-41e9-b5e7-34edd52cf157</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Log_reg_test_case</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>994bb788-eabf-4ccb-8b0d-5974801781d7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_log</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>994bb788-eabf-4ccb-8b0d-5974801781d7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>4098754a-575d-40f9-ae38-6126f4d30e83</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>994bb788-eabf-4ccb-8b0d-5974801781d7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>3b6ef12a-32a9-409e-9b09-62d9c7c10be9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>994bb788-eabf-4ccb-8b0d-5974801781d7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>7238294b-8125-49f3-983a-cb28b3eef4dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>994bb788-eabf-4ccb-8b0d-5974801781d7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>RepeatPassword</value>
+         <variableId>41d79f53-2c83-475f-bdc1-efbebb41617d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
