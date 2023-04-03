@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Dep Test Suite Login,Chrome 111.0.0.0,,,2566-04-03 04:17:01,2566-04-03 04:17:43,42.452s,FAILED
+,,,,,,,
+Test Cases/Log_reg_test_case,Chrome 111.0.0.0,,,2566-04-03 04:17:01,2566-04-03 04:17:17,16.570s,FAILED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 04:17:01,2566-04-03 04:17:04,2.222s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/"")",Chrome 111.0.0.0,,,2566-04-03 04:17:04,2566-04-03 04:17:14,10.338s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_/button_Login""))",Chrome 111.0.0.0,,,2566-04-03 04:17:14,2566-04-03 04:17:15,1.430s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Login/a_Register""))",Chrome 111.0.0.0,,,2566-04-03 04:17:15,2566-04-03 04:17:17,1.442s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 04:17:17,2566-04-03 04:17:17,0.704s,FAILED
+,,,,,,,
+Test Cases/Log_reg_test_case,Chrome 111.0.0.0,,,2566-04-03 04:17:18,2566-04-03 04:17:33,15.624s,FAILED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 04:17:18,2566-04-03 04:17:19,1.815s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/"")",Chrome 111.0.0.0,,,2566-04-03 04:17:19,2566-04-03 04:17:30,10.282s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_/button_Login""))",Chrome 111.0.0.0,,,2566-04-03 04:17:30,2566-04-03 04:17:31,1.405s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Login/a_Register""))",Chrome 111.0.0.0,,,2566-04-03 04:17:31,2566-04-03 04:17:32,1.448s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 04:17:32,2566-04-03 04:17:33,0.655s,FAILED
+,,,,,,,
+Test Cases/Log_reg_test_case,Chrome 111.0.0.0,,,2566-04-03 04:17:33,2566-04-03 04:17:43,9.806s,FAILED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 04:17:33,2566-04-03 04:17:35,1.805s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/"")",Chrome 111.0.0.0,,,2566-04-03 04:17:35,2566-04-03 04:17:43,7.891s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_/button_Login""))",Chrome 111.0.0.0,,,2566-04-03 04:17:43,2566-04-03 04:17:43,0.098s,FAILED

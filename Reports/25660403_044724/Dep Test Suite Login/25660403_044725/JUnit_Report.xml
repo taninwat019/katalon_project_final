@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Dep Test Suite Login" time="84.152" tests="3" failures="0" errors="0">
+   <testsuite name="Dep Test Suite Login" tests="3" failures="0" errors="0" time="84.152" skipped="0" timestamp="2566-04-03 04:47:35" hostname="LENOVO - LAPTOP-CK84RGPP.mshome.net" id="Test Suites/Dep Test Suite Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\Katalon Studio\\Devop_project\\Reports\\25660403_044724\\Dep Test Suite Login\\25660403_044725"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\Katalon Studio\\Devop_project\\Reports\\25660403_044724\\Dep Test Suite Login\\25660403_044725\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - LAPTOP-CK84RGPP.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 111.0.0.0"/>
+         <property name="hostAddress" value="172.25.176.1"/>
+         <property name="sessionId" value="52f77d07a5443eb3adcce912042f5d4d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Log_reg_test_case" time="28.388" classname="Test Cases/Log_reg_test_case" status="PASSED">
+         <system-out><![CDATA[2566-04-03 04:47:35 - [TEST_CASE][PASSED] - Test Cases/Log_reg_test_case: Test Cases/Log_reg_test_case
+
+2566-04-03 04:47:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-04-03 04:47:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-04-03 04:47:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-04-03 04:47:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-04-03 04:47:37 - [TEST_STEP][PASSED] - navigateToUrl("http://54.205.253.70:3000/"): Navigate to 'http://54.205.253.70:3000/' successfully
+
+2566-04-03 04:47:48 - [MESSAGE][PASSED] - Navigate to 'http://54.205.253.70:3000/' successfully
+
+2566-04-03 04:47:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_/span_Login_navbar-toggler-icon")): Object: 'Object Repository/Login and Register/Page_/span_Login_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:47:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_/span_Login_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:47:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_/button_Login")): Object: 'Object Repository/Login and Register/Page_/button_Login' is clicked on
+
+2566-04-03 04:47:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_/button_Login' is clicked on
+
+2566-04-03 04:47:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_Fup Login/a_Register")): Object: 'Object Repository/Login and Register/Page_Fup Login/a_Register' is clicked on
+
+2566-04-03 04:47:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_Fup Login/a_Register' is clicked on
+
+2566-04-03 04:47:51 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail"), Email): Text 'test2@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail'
+
+2566-04-03 04:47:52 - [MESSAGE][PASSED] - Text 'test2@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail'
+
+2566-04-03 04:47:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName"), Username): Text 'Test2' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName'
+
+2566-04-03 04:47:53 - [MESSAGE][PASSED] - Text 'Test2' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName'
+
+2566-04-03 04:47:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword"), Password): Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword'
+
+2566-04-03 04:47:53 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword'
+
+2566-04-03 04:47:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input"), RepeatPassword): Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input'
+
+2566-04-03 04:47:54 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input'
+
+2566-04-03 04:47:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_Fup Register/button_Register")): Object: 'Object Repository/Login and Register/Page_Fup Register/button_Register' is clicked on
+
+2566-04-03 04:47:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_Fup Register/button_Register' is clicked on
+
+2566-04-03 04:47:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail"), Email): Text 'test2@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail'
+
+2566-04-03 04:47:57 - [MESSAGE][PASSED] - Text 'test2@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail'
+
+2566-04-03 04:47:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword"), Password): Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword'
+
+2566-04-03 04:47:58 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword'
+
+2566-04-03 04:47:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_Fup Login/button_Log in")): Object: 'Object Repository/Login and Register/Page_Fup Login/button_Log in' is clicked on
+
+2566-04-03 04:48:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_Fup Login/button_Log in' is clicked on
+
+2566-04-03 04:48:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_FUP Restaurant/span_Logout_navbar-toggler-icon")): Object: 'Object Repository/Login and Register/Page_FUP Restaurant/span_Logout_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:48:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_FUP Restaurant/span_Logout_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:48:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_FUP Restaurant/p_Test1")): Object: 'Object Repository/Login and Register/Page_FUP Restaurant/p_Test1' is clicked on
+
+2566-04-03 04:48:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_FUP Restaurant/p_Test1' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Log_reg_test_case" time="27.504" classname="Test Cases/Log_reg_test_case" status="PASSED">
+         <system-out><![CDATA[2566-04-03 04:48:03 - [TEST_CASE][PASSED] - Test Cases/Log_reg_test_case: Test Cases/Log_reg_test_case
+
+2566-04-03 04:48:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-04-03 04:48:03 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2566-04-03 04:48:04 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-04-03 04:48:04 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-04-03 04:48:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-04-03 04:48:05 - [TEST_STEP][PASSED] - navigateToUrl("http://54.205.253.70:3000/"): Navigate to 'http://54.205.253.70:3000/' successfully
+
+2566-04-03 04:48:15 - [MESSAGE][PASSED] - Navigate to 'http://54.205.253.70:3000/' successfully
+
+2566-04-03 04:48:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_/span_Login_navbar-toggler-icon")): Object: 'Object Repository/Login and Register/Page_/span_Login_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:48:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_/span_Login_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:48:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_/button_Login")): Object: 'Object Repository/Login and Register/Page_/button_Login' is clicked on
+
+2566-04-03 04:48:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_/button_Login' is clicked on
+
+2566-04-03 04:48:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_Fup Login/a_Register")): Object: 'Object Repository/Login and Register/Page_Fup Login/a_Register' is clicked on
+
+2566-04-03 04:48:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_Fup Login/a_Register' is clicked on
+
+2566-04-03 04:48:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail"), Email): Text 'test3@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail'
+
+2566-04-03 04:48:20 - [MESSAGE][PASSED] - Text 'test3@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail'
+
+2566-04-03 04:48:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName"), Username): Text 'Test3' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName'
+
+2566-04-03 04:48:20 - [MESSAGE][PASSED] - Text 'Test3' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName'
+
+2566-04-03 04:48:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword"), Password): Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword'
+
+2566-04-03 04:48:21 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword'
+
+2566-04-03 04:48:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input"), RepeatPassword): Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input'
+
+2566-04-03 04:48:21 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input'
+
+2566-04-03 04:48:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_Fup Register/button_Register")): Object: 'Object Repository/Login and Register/Page_Fup Register/button_Register' is clicked on
+
+2566-04-03 04:48:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_Fup Register/button_Register' is clicked on
+
+2566-04-03 04:48:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail"), Email): Text 'test3@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail'
+
+2566-04-03 04:48:25 - [MESSAGE][PASSED] - Text 'test3@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail'
+
+2566-04-03 04:48:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword"), Password): Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword'
+
+2566-04-03 04:48:25 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword'
+
+2566-04-03 04:48:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_Fup Login/button_Log in")): Object: 'Object Repository/Login and Register/Page_Fup Login/button_Log in' is clicked on
+
+2566-04-03 04:48:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_Fup Login/button_Log in' is clicked on
+
+2566-04-03 04:48:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_FUP Restaurant/span_Logout_navbar-toggler-icon")): Object: 'Object Repository/Login and Register/Page_FUP Restaurant/span_Logout_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:48:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_FUP Restaurant/span_Logout_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:48:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_FUP Restaurant/p_Test1")): Object: 'Object Repository/Login and Register/Page_FUP Restaurant/p_Test1' is clicked on
+
+2566-04-03 04:48:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_FUP Restaurant/p_Test1' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Log_reg_test_case" time="27.846" classname="Test Cases/Log_reg_test_case" status="PASSED">
+         <system-out><![CDATA[2566-04-03 04:48:31 - [TEST_CASE][PASSED] - Test Cases/Log_reg_test_case: Test Cases/Log_reg_test_case
+
+2566-04-03 04:48:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-04-03 04:48:31 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2566-04-03 04:48:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-04-03 04:48:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-04-03 04:48:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-04-03 04:48:33 - [TEST_STEP][PASSED] - navigateToUrl("http://54.205.253.70:3000/"): Navigate to 'http://54.205.253.70:3000/' successfully
+
+2566-04-03 04:48:44 - [MESSAGE][PASSED] - Navigate to 'http://54.205.253.70:3000/' successfully
+
+2566-04-03 04:48:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_/span_Login_navbar-toggler-icon")): Object: 'Object Repository/Login and Register/Page_/span_Login_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:48:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_/span_Login_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:48:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_/button_Login")): Object: 'Object Repository/Login and Register/Page_/button_Login' is clicked on
+
+2566-04-03 04:48:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_/button_Login' is clicked on
+
+2566-04-03 04:48:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_Fup Login/a_Register")): Object: 'Object Repository/Login and Register/Page_Fup Login/a_Register' is clicked on
+
+2566-04-03 04:48:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_Fup Login/a_Register' is clicked on
+
+2566-04-03 04:48:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail"), Email): Text 'test4@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail'
+
+2566-04-03 04:48:47 - [MESSAGE][PASSED] - Text 'test4@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail'
+
+2566-04-03 04:48:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName"), Username): Text 'Test4' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName'
+
+2566-04-03 04:48:48 - [MESSAGE][PASSED] - Text 'Test4' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName'
+
+2566-04-03 04:48:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword"), Password): Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword'
+
+2566-04-03 04:48:49 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword'
+
+2566-04-03 04:48:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Register/input"), RepeatPassword): Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input'
+
+2566-04-03 04:48:49 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Register/input'
+
+2566-04-03 04:48:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_Fup Register/button_Register")): Object: 'Object Repository/Login and Register/Page_Fup Register/button_Register' is clicked on
+
+2566-04-03 04:48:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_Fup Register/button_Register' is clicked on
+
+2566-04-03 04:48:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail"), Email): Text 'test4@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail'
+
+2566-04-03 04:48:52 - [MESSAGE][PASSED] - Text 'test4@gmail.com' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail'
+
+2566-04-03 04:48:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword"), Password): Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword'
+
+2566-04-03 04:48:53 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword'
+
+2566-04-03 04:48:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_Fup Login/button_Log in")): Object: 'Object Repository/Login and Register/Page_Fup Login/button_Log in' is clicked on
+
+2566-04-03 04:48:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_Fup Login/button_Log in' is clicked on
+
+2566-04-03 04:48:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_FUP Restaurant/span_Logout_navbar-toggler-icon")): Object: 'Object Repository/Login and Register/Page_FUP Restaurant/span_Logout_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:48:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_FUP Restaurant/span_Logout_navbar-toggler-icon' is clicked on
+
+2566-04-03 04:48:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login and Register/Page_FUP Restaurant/p_Test1")): Object: 'Object Repository/Login and Register/Page_FUP Restaurant/p_Test1' is clicked on
+
+2566-04-03 04:48:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Login and Register/Page_FUP Restaurant/p_Test1' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2566-04-03 04:47:35 - [TEST_SUITE][PASSED] - Dep Test Suite Login: Test Cases/Log_reg_test_case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

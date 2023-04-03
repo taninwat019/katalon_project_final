@@ -1,0 +1,92 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Dep Test Suite Add Item,Chrome 111.0.0.0,,,2566-04-03 05:11:17,2566-04-03 05:13:47,2m - 29.667s,PASSED
+,,,,,,,
+Test Cases/Add_item_to_cart_test_case,Chrome 111.0.0.0,,,2566-04-03 05:11:18,2566-04-03 05:12:08,50.284s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 05:11:18,2566-04-03 05:11:20,2.110s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/login?q=session-expired"")",Chrome 111.0.0.0,,,2566-04-03 05:11:20,2566-04-03 05:11:22,1.533s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Fup Login/input_LOGIN_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 05:11:22,2566-04-03 05:11:23,0.816s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Fup Login/input_LOGIN_userPassword""), Password)",Chrome 111.0.0.0,,,2566-04-03 05:11:23,2566-04-03 05:11:23,0.655s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Fup Login/button_Log in""))",Chrome 111.0.0.0,,,2566-04-03 05:11:23,2566-04-03 05:11:35,12.134s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Buy""))",Chrome 111.0.0.0,,,2566-04-03 05:11:35,2566-04-03 05:11:38,2.466s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/span_Logout_navbar-toggler-icon""))",Chrome 111.0.0.0,,,2566-04-03 05:11:38,2566-04-03 05:11:41,3.528s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/i_Logout_cart-icon""))",Chrome 111.0.0.0,,,2566-04-03 05:11:41,2566-04-03 05:11:42,0.330s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/input_Beer_order-quantity""), Qty)",Chrome 111.0.0.0,,,2566-04-03 05:11:42,2566-04-03 05:11:44,2.553s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Delete""))",Chrome 111.0.0.0,,,2566-04-03 05:11:44,2566-04-03 05:11:45,0.345s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Order Menu_btn-close""))",Chrome 111.0.0.0,,,2566-04-03 05:11:45,2566-04-03 05:11:46,1.440s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Buy""))",Chrome 111.0.0.0,,,2566-04-03 05:11:46,2566-04-03 05:11:49,2.874s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/i_Logout_cart-icon""))",Chrome 111.0.0.0,,,2566-04-03 05:11:49,2566-04-03 05:11:52,3.423s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/input_Beer_order-quantity""), Qty)",Chrome 111.0.0.0,,,2566-04-03 05:11:52,2566-04-03 05:11:55,2.557s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Checkout""))",Chrome 111.0.0.0,,,2566-04-03 05:11:55,2566-04-03 05:11:55,0.348s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_First name_form9Example1""), FirstName)",Chrome 111.0.0.0,,,2566-04-03 05:11:55,2566-04-03 05:11:58,3.210s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Last name_form9Example2""), LastName)",Chrome 111.0.0.0,,,2566-04-03 05:11:58,2566-04-03 05:11:59,0.638s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_City_form9Example3""), City)",Chrome 111.0.0.0,,,2566-04-03 05:11:59,2566-04-03 05:12:00,0.648s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Zip_form9Example4""), Zip)",Chrome 111.0.0.0,,,2566-04-03 05:12:00,2566-04-03 05:12:00,0.630s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Address_form9Example6""), Address)",Chrome 111.0.0.0,,,2566-04-03 05:12:00,2566-04-03 05:12:01,0.642s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Email_typeEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 05:12:01,2566-04-03 05:12:02,0.639s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Address/button_Next""))",Chrome 111.0.0.0,,,2566-04-03 05:12:02,2566-04-03 05:12:03,1.293s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_Payment Name_form9Example1""), FirstName)",Chrome 111.0.0.0,,,2566-04-03 05:12:03,2566-04-03 05:12:04,0.752s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_Enter Name_form9Example2""), FirstName)",Chrome 111.0.0.0,,,2566-04-03 05:12:04,2566-04-03 05:12:04,0.654s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_Card Number_number""), CardNumber)",Chrome 111.0.0.0,,,2566-04-03 05:12:04,2566-04-03 05:12:05,0.648s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_CVC_form9Example6""), CVC)",Chrome 111.0.0.0,,,2566-04-03 05:12:05,2566-04-03 05:12:06,0.646s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Payment/button_Next""))",Chrome 111.0.0.0,,,2566-04-03 05:12:06,2566-04-03 05:12:08,1.930s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Progress Tracker Example/header_Tracking Orders""))",Chrome 111.0.0.0,,,2566-04-03 05:12:08,2566-04-03 05:12:08,0.340s,PASSED
+,,,,,,,
+Test Cases/Add_item_to_cart_test_case,Chrome 111.0.0.0,,,2566-04-03 05:12:08,2566-04-03 05:12:57,49.421s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 05:12:08,2566-04-03 05:12:10,1.838s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/login?q=session-expired"")",Chrome 111.0.0.0,,,2566-04-03 05:12:10,2566-04-03 05:12:11,1.524s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Fup Login/input_LOGIN_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 05:12:11,2566-04-03 05:12:12,0.861s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Fup Login/input_LOGIN_userPassword""), Password)",Chrome 111.0.0.0,,,2566-04-03 05:12:12,2566-04-03 05:12:13,0.645s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Fup Login/button_Log in""))",Chrome 111.0.0.0,,,2566-04-03 05:12:13,2566-04-03 05:12:25,11.945s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Buy""))",Chrome 111.0.0.0,,,2566-04-03 05:12:25,2566-04-03 05:12:27,2.431s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/span_Logout_navbar-toggler-icon""))",Chrome 111.0.0.0,,,2566-04-03 05:12:27,2566-04-03 05:12:31,3.417s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/i_Logout_cart-icon""))",Chrome 111.0.0.0,,,2566-04-03 05:12:31,2566-04-03 05:12:31,0.339s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/input_Beer_order-quantity""), Qty)",Chrome 111.0.0.0,,,2566-04-03 05:12:31,2566-04-03 05:12:34,2.602s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Delete""))",Chrome 111.0.0.0,,,2566-04-03 05:12:34,2566-04-03 05:12:34,0.345s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Order Menu_btn-close""))",Chrome 111.0.0.0,,,2566-04-03 05:12:34,2566-04-03 05:12:35,1.435s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Buy""))",Chrome 111.0.0.0,,,2566-04-03 05:12:35,2566-04-03 05:12:38,2.960s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/i_Logout_cart-icon""))",Chrome 111.0.0.0,,,2566-04-03 05:12:38,2566-04-03 05:12:42,3.368s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/input_Beer_order-quantity""), Qty)",Chrome 111.0.0.0,,,2566-04-03 05:12:42,2566-04-03 05:12:44,2.593s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Checkout""))",Chrome 111.0.0.0,,,2566-04-03 05:12:44,2566-04-03 05:12:45,0.330s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_First name_form9Example1""), FirstName)",Chrome 111.0.0.0,,,2566-04-03 05:12:45,2566-04-03 05:12:48,3.191s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Last name_form9Example2""), LastName)",Chrome 111.0.0.0,,,2566-04-03 05:12:48,2566-04-03 05:12:48,0.644s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_City_form9Example3""), City)",Chrome 111.0.0.0,,,2566-04-03 05:12:48,2566-04-03 05:12:49,0.647s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Zip_form9Example4""), Zip)",Chrome 111.0.0.0,,,2566-04-03 05:12:49,2566-04-03 05:12:50,0.635s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Address_form9Example6""), Address)",Chrome 111.0.0.0,,,2566-04-03 05:12:50,2566-04-03 05:12:50,0.640s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Email_typeEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 05:12:50,2566-04-03 05:12:51,0.642s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Address/button_Next""))",Chrome 111.0.0.0,,,2566-04-03 05:12:51,2566-04-03 05:12:52,1.290s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_Payment Name_form9Example1""), FirstName)",Chrome 111.0.0.0,,,2566-04-03 05:12:52,2566-04-03 05:12:53,0.862s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_Enter Name_form9Example2""), FirstName)",Chrome 111.0.0.0,,,2566-04-03 05:12:53,2566-04-03 05:12:54,0.642s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_Card Number_number""), CardNumber)",Chrome 111.0.0.0,,,2566-04-03 05:12:54,2566-04-03 05:12:54,0.643s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_CVC_form9Example6""), CVC)",Chrome 111.0.0.0,,,2566-04-03 05:12:54,2566-04-03 05:12:55,0.634s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Payment/button_Next""))",Chrome 111.0.0.0,,,2566-04-03 05:12:55,2566-04-03 05:12:57,1.975s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Progress Tracker Example/header_Tracking Orders""))",Chrome 111.0.0.0,,,2566-04-03 05:12:57,2566-04-03 05:12:57,0.329s,PASSED
+,,,,,,,
+Test Cases/Add_item_to_cart_test_case,Chrome 111.0.0.0,,,2566-04-03 05:12:58,2566-04-03 05:13:47,49.383s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 05:12:58,2566-04-03 05:12:59,1.806s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/login?q=session-expired"")",Chrome 111.0.0.0,,,2566-04-03 05:12:59,2566-04-03 05:13:01,1.531s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Fup Login/input_LOGIN_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 05:13:01,2566-04-03 05:13:02,0.857s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Fup Login/input_LOGIN_userPassword""), Password)",Chrome 111.0.0.0,,,2566-04-03 05:13:02,2566-04-03 05:13:02,0.634s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Fup Login/button_Log in""))",Chrome 111.0.0.0,,,2566-04-03 05:13:02,2566-04-03 05:13:14,11.922s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Buy""))",Chrome 111.0.0.0,,,2566-04-03 05:13:14,2566-04-03 05:13:17,2.427s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/span_Logout_navbar-toggler-icon""))",Chrome 111.0.0.0,,,2566-04-03 05:13:17,2566-04-03 05:13:20,3.448s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/i_Logout_cart-icon""))",Chrome 111.0.0.0,,,2566-04-03 05:13:20,2566-04-03 05:13:20,0.351s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/input_Beer_order-quantity""), Qty)",Chrome 111.0.0.0,,,2566-04-03 05:13:20,2566-04-03 05:13:23,2.598s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Delete""))",Chrome 111.0.0.0,,,2566-04-03 05:13:23,2566-04-03 05:13:23,0.333s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Order Menu_btn-close""))",Chrome 111.0.0.0,,,2566-04-03 05:13:23,2566-04-03 05:13:25,1.435s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Buy""))",Chrome 111.0.0.0,,,2566-04-03 05:13:25,2566-04-03 05:13:28,2.919s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/i_Logout_cart-icon""))",Chrome 111.0.0.0,,,2566-04-03 05:13:28,2566-04-03 05:13:31,3.507s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/input_Beer_order-quantity""), Qty)",Chrome 111.0.0.0,,,2566-04-03 05:13:31,2566-04-03 05:13:34,2.596s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_FUP Restaurant/button_Checkout""))",Chrome 111.0.0.0,,,2566-04-03 05:13:34,2566-04-03 05:13:34,0.331s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_First name_form9Example1""), FirstName)",Chrome 111.0.0.0,,,2566-04-03 05:13:34,2566-04-03 05:13:37,3.187s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Last name_form9Example2""), LastName)",Chrome 111.0.0.0,,,2566-04-03 05:13:37,2566-04-03 05:13:38,0.636s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_City_form9Example3""), City)",Chrome 111.0.0.0,,,2566-04-03 05:13:38,2566-04-03 05:13:39,0.643s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Zip_form9Example4""), Zip)",Chrome 111.0.0.0,,,2566-04-03 05:13:39,2566-04-03 05:13:39,0.634s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Address_form9Example6""), Address)",Chrome 111.0.0.0,,,2566-04-03 05:13:39,2566-04-03 05:13:40,0.647s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Address/input_Email_typeEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 05:13:40,2566-04-03 05:13:41,0.636s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Address/button_Next""))",Chrome 111.0.0.0,,,2566-04-03 05:13:41,2566-04-03 05:13:42,1.304s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_Payment Name_form9Example1""), FirstName)",Chrome 111.0.0.0,,,2566-04-03 05:13:42,2566-04-03 05:13:43,0.856s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_Enter Name_form9Example2""), FirstName)",Chrome 111.0.0.0,,,2566-04-03 05:13:43,2566-04-03 05:13:43,0.632s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_Card Number_number""), CardNumber)",Chrome 111.0.0.0,,,2566-04-03 05:13:43,2566-04-03 05:13:44,0.630s,PASSED
+"setText(findTestObject(""Object Repository/Add item to cart/Page_Payment/input_CVC_form9Example6""), CVC)",Chrome 111.0.0.0,,,2566-04-03 05:13:44,2566-04-03 05:13:45,0.630s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Payment/button_Next""))",Chrome 111.0.0.0,,,2566-04-03 05:13:45,2566-04-03 05:13:47,1.897s,PASSED
+"click(findTestObject(""Object Repository/Add item to cart/Page_Progress Tracker Example/header_Tracking Orders""))",Chrome 111.0.0.0,,,2566-04-03 05:13:47,2566-04-03 05:13:47,0.345s,PASSED

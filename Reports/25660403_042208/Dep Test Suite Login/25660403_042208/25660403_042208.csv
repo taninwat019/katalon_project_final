@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Dep Test Suite Login,Chrome 111.0.0.0,,,2566-04-03 04:22:17,2566-04-03 04:22:42,24.781s,FAILED
+,,,,,,,
+Test Cases/Log_reg_test_case,Chrome 111.0.0.0,,,2566-04-03 04:22:18,2566-04-03 04:22:35,16.848s,FAILED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 04:22:18,2566-04-03 04:22:20,2.287s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/"")",Chrome 111.0.0.0,,,2566-04-03 04:22:20,2566-04-03 04:22:31,10.330s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_/button_Login""))",Chrome 111.0.0.0,,,2566-04-03 04:22:31,2566-04-03 04:22:32,1.495s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Login/a_Register""))",Chrome 111.0.0.0,,,2566-04-03 04:22:32,2566-04-03 04:22:34,1.647s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 04:22:34,2566-04-03 04:22:35,0.670s,FAILED
+,,,,,,,
+Test Cases/Log_reg_test_case,Chrome 111.0.0.0,,,2566-04-03 04:22:35,2566-04-03 04:22:40,4.913s,FAILED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 04:22:35,2566-04-03 04:22:36,1.790s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/"")",Chrome 111.0.0.0,,,2566-04-03 04:22:36,2566-04-03 04:22:39,2.997s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_/button_Login""))",Chrome 111.0.0.0,,,2566-04-03 04:22:39,2566-04-03 04:22:40,0.114s,FAILED
+,,,,,,,
+Test Cases/Log_reg_test_case,Chrome 111.0.0.0,,,2566-04-03 04:22:40,2566-04-03 04:22:42,2.572s,FAILED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 04:22:40,2566-04-03 04:22:41,1.829s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/"")",Chrome 111.0.0.0,,,2566-04-03 04:22:41,2566-04-03 04:22:42,0.637s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_/button_Login""))",Chrome 111.0.0.0,,,2566-04-03 04:22:42,2566-04-03 04:22:42,0.095s,FAILED

@@ -1,0 +1,47 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Dep Test Suite Login,Chrome 111.0.0.0,,,2566-04-03 04:29:04,2566-04-03 04:30:31,1m - 27.479s,PASSED
+,,,,,,,
+Test Cases/Log_reg_test_case,Chrome 111.0.0.0,,,2566-04-03 04:29:04,2566-04-03 04:29:34,29.787s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 04:29:04,2566-04-03 04:29:07,2.311s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/"")",Chrome 111.0.0.0,,,2566-04-03 04:29:07,2566-04-03 04:29:19,12.055s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_/button_Login""))",Chrome 111.0.0.0,,,2566-04-03 04:29:19,2566-04-03 04:29:20,1.487s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Login/a_Register""))",Chrome 111.0.0.0,,,2566-04-03 04:29:20,2566-04-03 04:29:22,1.569s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 04:29:22,2566-04-03 04:29:23,0.762s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName""), Username)",Chrome 111.0.0.0,,,2566-04-03 04:29:23,2566-04-03 04:29:23,0.658s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword""), Password)",Chrome 111.0.0.0,,,2566-04-03 04:29:23,2566-04-03 04:29:24,0.657s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input""), RepeatPassword)",Chrome 111.0.0.0,,,2566-04-03 04:29:24,2566-04-03 04:29:25,0.666s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Register/button_Register""))",Chrome 111.0.0.0,,,2566-04-03 04:29:25,2566-04-03 04:29:27,2.299s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 04:29:27,2566-04-03 04:29:28,0.753s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword""), Password)",Chrome 111.0.0.0,,,2566-04-03 04:29:28,2566-04-03 04:29:28,0.633s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Login/button_Log in""))",Chrome 111.0.0.0,,,2566-04-03 04:29:28,2566-04-03 04:29:33,4.813s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_FUP Restaurant/p_Test1""))",Chrome 111.0.0.0,,,2566-04-03 04:29:33,2566-04-03 04:29:34,0.679s,PASSED
+,,,,,,,
+Test Cases/Log_reg_test_case,Chrome 111.0.0.0,,,2566-04-03 04:29:34,2566-04-03 04:30:02,28.577s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 04:29:34,2566-04-03 04:29:36,1.852s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/"")",Chrome 111.0.0.0,,,2566-04-03 04:29:36,2566-04-03 04:29:48,11.940s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_/button_Login""))",Chrome 111.0.0.0,,,2566-04-03 04:29:48,2566-04-03 04:29:49,1.584s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Login/a_Register""))",Chrome 111.0.0.0,,,2566-04-03 04:29:49,2566-04-03 04:29:51,1.341s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 04:29:51,2566-04-03 04:29:51,0.865s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName""), Username)",Chrome 111.0.0.0,,,2566-04-03 04:29:51,2566-04-03 04:29:52,0.645s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword""), Password)",Chrome 111.0.0.0,,,2566-04-03 04:29:52,2566-04-03 04:29:53,0.635s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input""), RepeatPassword)",Chrome 111.0.0.0,,,2566-04-03 04:29:53,2566-04-03 04:29:53,0.641s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Register/button_Register""))",Chrome 111.0.0.0,,,2566-04-03 04:29:53,2566-04-03 04:29:56,2.321s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 04:29:56,2566-04-03 04:29:57,0.862s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword""), Password)",Chrome 111.0.0.0,,,2566-04-03 04:29:57,2566-04-03 04:29:57,0.641s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Login/button_Log in""))",Chrome 111.0.0.0,,,2566-04-03 04:29:57,2566-04-03 04:30:02,4.785s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_FUP Restaurant/p_Test1""))",Chrome 111.0.0.0,,,2566-04-03 04:30:02,2566-04-03 04:30:02,0.456s,PASSED
+,,,,,,,
+Test Cases/Log_reg_test_case,Chrome 111.0.0.0,,,2566-04-03 04:30:02,2566-04-03 04:30:31,28.698s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2566-04-03 04:30:02,2566-04-03 04:30:04,1.875s,PASSED
+"navigateToUrl(""http://54.205.253.70:3000/"")",Chrome 111.0.0.0,,,2566-04-03 04:30:04,2566-04-03 04:30:16,11.691s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_/button_Login""))",Chrome 111.0.0.0,,,2566-04-03 04:30:16,2566-04-03 04:30:18,1.494s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Login/a_Register""))",Chrome 111.0.0.0,,,2566-04-03 04:30:18,2566-04-03 04:30:19,1.483s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 04:30:19,2566-04-03 04:30:20,0.879s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userName""), Username)",Chrome 111.0.0.0,,,2566-04-03 04:30:20,2566-04-03 04:30:21,0.671s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input_REGISTER_userPassword""), Password)",Chrome 111.0.0.0,,,2566-04-03 04:30:21,2566-04-03 04:30:21,0.648s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Register/input""), RepeatPassword)",Chrome 111.0.0.0,,,2566-04-03 04:30:21,2566-04-03 04:30:22,0.652s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Register/button_Register""))",Chrome 111.0.0.0,,,2566-04-03 04:30:22,2566-04-03 04:30:24,2.344s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userEmail""), Email)",Chrome 111.0.0.0,,,2566-04-03 04:30:24,2566-04-03 04:30:25,0.787s,PASSED
+"setText(findTestObject(""Object Repository/Login and Register/Page_Fup Login/input_LOGIN_userPassword""), Password)",Chrome 111.0.0.0,,,2566-04-03 04:30:25,2566-04-03 04:30:26,0.647s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_Fup Login/button_Log in""))",Chrome 111.0.0.0,,,2566-04-03 04:30:26,2566-04-03 04:30:30,4.726s,PASSED
+"click(findTestObject(""Object Repository/Login and Register/Page_FUP Restaurant/p_Test1""))",Chrome 111.0.0.0,,,2566-04-03 04:30:30,2566-04-03 04:30:31,0.792s,PASSED
